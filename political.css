@@ -1,0 +1,12 @@
+.section--info {
+    text-align: center;
+}
+
+.list--committies {
+    list-style-type: none;
+    border: 2px solid black;
+}
+
+#republican {
+    color: red;
+}
